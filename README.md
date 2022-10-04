@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Azizul Haque</h1>
-<h3>I am Full-stack Web Developer</h3>
+<h3>I am full-stack Web Developer</h3>
 
 <h2>About Me</h2>
 <p>
@@ -24,7 +24,7 @@ Experienced PHP Developer with a demonstrated history of working in the internet
 </p>
 
 
-
+<br/>
 <h3>For Business Inquiries:</h3>
 
 <p>
