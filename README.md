@@ -1,11 +1,8 @@
-<h1>Hi 👋, I'm Azizul Haque</h1>
-<h3>I am full-stack Web Developer</h3>
+<h1>About Me</h1>
 
-
-<h2>About Me</h2>
-<p>
-I am a Web Developer, and I’m very passionate and dedicated to my work. With over 7 years experience as a professional Web developer, I have acquired the skills and knowledge necessary to make your project a success. I enjoy what I am doing, the work is challenging and stimulating, and I am always learning new skills and purposefully working toward and achieving goals. I Get Deeper to Understand Client’s Needs & Problems. My Mission is to Satisfy Every Client. Because Client Satisfaction is My First Priority. You’ll Get Lifetime Support in Any Situation, You’ll Get Fanatical Support And Absolutely Positively On-Time Delivery, Which I would ensure to you pretty clearly .
-</p>
+<p>Hi 👋, I'm &nbsp;<em>Azizul Haqu</em>e. I am a Fullstack Frontend &amp; WordPress Developer, I’m very passionate and dedicated to my work. With 8 years experience as a professional frontend &amp; WordPress development, I have acquired the skills and knowledge necessary to make your project a success. I enjoy what I am doing, the work is challenging and stimulating, I am always learning new skills and purposefully working toward and achieving goals.</p>
+<p>I am specialized in web design, Elementor Website, WordPress and WooCommerce, WordPress Theme Customization, Theme Development, Plugin Development, Create Rest API.</p>
+<p>I get deeper to understand client’s needs &amp; problems. My mission is to satisfy every client. Because client satisfaction is my first priority. You’ll get lifetime support in any situation, You’ll get fanatical support and absolutely positively On-Time Delivery, Which I would ensure to you pretty clearly .</p>
 
 
 <h2>Expertise</h2>
