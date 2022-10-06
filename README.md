@@ -4,7 +4,7 @@
 
 <h2>About Me</h2>
 <p>
-I am a Web Developer, and I’m very passionate and dedicated to my work. With 9 years experience as a professional Web developer, I have acquired the skills and knowledge necessary to make your project a success. I enjoy what I am doing, the work is challenging and stimulating, and I am always learning new skills and purposefully working toward and achieving goals. I Get Deeper to Understand Client’s Needs & Problems. My Mission is to Satisfy Every Client. Because Client Satisfaction is My First Priority. You’ll Get Lifetime Support in Any Situation, You’ll Get Fanatical Support And Absolutely Positively On-Time Delivery, Which I would ensure to you pretty clearly .
+I am a Web Developer, and I’m very passionate and dedicated to my work. With over 7 years experience as a professional Web developer, I have acquired the skills and knowledge necessary to make your project a success. I enjoy what I am doing, the work is challenging and stimulating, and I am always learning new skills and purposefully working toward and achieving goals. I Get Deeper to Understand Client’s Needs & Problems. My Mission is to Satisfy Every Client. Because Client Satisfaction is My First Priority. You’ll Get Lifetime Support in Any Situation, You’ll Get Fanatical Support And Absolutely Positively On-Time Delivery, Which I would ensure to you pretty clearly .
 </p>
 
 
