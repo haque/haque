@@ -4,7 +4,7 @@
 <p>I am specialized in web design, Elementor Website, WordPress and WooCommerce, WordPress Theme Customization, Theme Development, Plugin Development, Create Rest API.</p>
 <p>I get deeper to understand client’s needs &amp; problems. My mission is to satisfy every client. Because client satisfaction is my first priority. You’ll get lifetime support in any situation, You’ll get fanatical support and absolutely positively On-Time Delivery, Which I would ensure to you pretty clearly .</p>
 
-<hr>
+<br/>
 
 <h2>Expertise</h2>
 
@@ -14,7 +14,7 @@
 - ✅ Plugin Development
 - ✅ Custom Web Development
 
-<hr>
+<br/>
 
 <h2 align="left">Things I code with:</h2>
 <p align="left">
@@ -61,7 +61,7 @@
 
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=haque&show_icons=true&locale=en&layout=compact" alt="haque" /></p>
-
+<br/>
 <h2>Connect with me:</h2>
 
 <p>
