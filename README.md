@@ -1,9 +1,10 @@
-<h1>About Me</h1>
+<h1>Hi 👋, I'm &nbsp;<em>Azizul Haque</em>.</h1>
 
-<p>Hi 👋, I'm &nbsp;<em>Azizul Haqu</em>e. I am a Fullstack Frontend &amp; WordPress Developer, I’m very passionate and dedicated to my work. With 8 years experience as a professional frontend &amp; WordPress development, I have acquired the skills and knowledge necessary to make your project a success. I enjoy what I am doing, the work is challenging and stimulating, I am always learning new skills and purposefully working toward and achieving goals.</p>
+<p>I am a Fullstack Frontend &amp; WordPress Developer, I’m very passionate and dedicated to my work. With 8 years experience as a professional frontend &amp; WordPress development, I have acquired the skills and knowledge necessary to make your project a success. I enjoy what I am doing, the work is challenging and stimulating, I am always learning new skills and purposefully working toward and achieving goals.</p>
 <p>I am specialized in web design, Elementor Website, WordPress and WooCommerce, WordPress Theme Customization, Theme Development, Plugin Development, Create Rest API.</p>
 <p>I get deeper to understand client’s needs &amp; problems. My mission is to satisfy every client. Because client satisfaction is my first priority. You’ll get lifetime support in any situation, You’ll get fanatical support and absolutely positively On-Time Delivery, Which I would ensure to you pretty clearly .</p>
 
+<hr>
 
 <h2>Expertise</h2>
 
@@ -13,8 +14,9 @@
 - ✅ Plugin Development
 - ✅ Custom Web Development
 
+<hr>
 
-<h2 align="left">Languages:</h2>
+<h2 align="left">Things I code with:</h2>
 <p align="left">
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b18cd96f056a7af4213539108d08784f3e02e3eee1fbc0ea497d2364ca211806/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b">
   <img src="https://camo.githubusercontent.com/b18cd96f056a7af4213539108d08784f3e02e3eee1fbc0ea497d2364ca211806/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" style="max-width: 100%;">
